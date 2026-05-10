@@ -1,3 +1,9 @@
+# UPDATE 05-05-2026
+
+The owner of the website is now dead. This codebase and the website now serves as historical pieces.
+Original ReadMe is set below.
+---------------------------------------------------------------
+
 # 📔 Ryn's Magic Journal
 
 Hi! 👋 This is a special computer book about **Ryn**. It has pictures, stories, and cool moving things!
