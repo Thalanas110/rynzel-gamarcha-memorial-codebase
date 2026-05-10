@@ -15,10 +15,12 @@ We built this using **React** (which is like magical building blocks for website
 To see the magic book on your computer, you need to do three easy steps:
 
 1.  **Open the Box**: Open your computer terminal (it looks like a hacker screen!).
-2.  **Wake Up the Robot**: Type this special magic word and press Enter:
+2.  **Wake Up the Robot**: Type these special magic words and press Enter:
     ```bash
+    npm i
     npm run dev
     ```
+    Be careful to do it one by one!
 3.  **Look**: Click the link that appears (it looks like `http://localhost:5173`).
 
 ## ✨ What's Inside?
